@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/libexec/gpaste/gpaste-ui
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=GPaste
+Comment=Launch GPaste UI on login
+
+
